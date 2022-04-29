@@ -1,5 +1,9 @@
 <h1 align="center">Opa 🖥️, você caiu no GitHub do Thiago</h1>
 
+<h4 align="center">Sabe aquele sentimento de folga por ter resolvido um problema com código da forma mais limpa e eficiente possível? não tem nada igual.
+
+Estudante de Ciências da Computação na UNIT, experiência com automação de processos em Python.</h4>
+
 <div align="center">
   <a href="linkedin.com/in/thiago-dorville-a04404237">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DorvilleThiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
