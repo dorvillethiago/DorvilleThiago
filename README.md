@@ -2,7 +2,7 @@
 
 <h4 align="center">Sabe aquele sentimento de folga por ter resolvido um problema com código da forma mais eficiente possível? não tem nada igual.
 
-Estudante de Ciências da Computação na UNIT</h4>
+Estudante de Ciência da Computação na UNIT</h4>
 
 <div align="center">
   <a href="linkedin.com/in/thiago-dorville-a04404237">
