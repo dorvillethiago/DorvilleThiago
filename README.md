@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <h1 align="center">Opa 🖥️, você caiu no GitHub do Thiago</h1>
 
 <h4 align="center">Sabe aquele sentimento de folga por ter resolvido um problema com código da forma mais eficiente possível? não tem nada igual.
@@ -17,8 +19,8 @@
   <img align="center" alt="Thiago-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
   <img align="center" alt="Thiago-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thiago-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
-  <img align="center" alt="Thiago-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">  
-  
+  <img align="center" alt="Thiago-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">  
+  <i class="devicon-nextjs-original"></i>
 <div>
   
   ##
