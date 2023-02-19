@@ -1,6 +1,10 @@
 <h1 align="center">Opa 🖥️, você caiu no GitHub do Thiago</h1>
 
-<h4 align="center">Sabe aquele sentimento de folga por ter resolvido um problema com código da forma mais eficiente possível? não tem nada igual.
+<h4 align="center">Sabe aquele sentimento de euforia quando você finalmente resolve um problema de código de maneira brilhante, elegante e eficiente? É uma sensação incrível que não tem igual. É como se você tivesse dominado um desafio e criado algo que realmente faz a diferença.
+
+É isso que me inspira a ser um desenvolvedor web. A capacidade de resolver problemas complexos, criar soluções inovadoras e transformar ideias em realidade é o que me move. Não há nada mais gratificante do que ver seu trabalho ser executado sem problemas e fazer a diferença para as pessoas.
+
+Se você compartilha dessa mesma paixão pela codificação, com certeza entenderá do que estou falando.
 
 </h4>
 
