@@ -4,9 +4,8 @@
 
 <h4 align="left">A euforia de resolver problemas de código de forma brilhante e eficiente é inspiradora. Ser um desenvolvedor web significa transformar ideias em realidade e criar soluções inovadoras. Ver o trabalho executado sem problemas é simplesmente gratificante.
   
-<h3 align="left"> Portfólio: https://www.thiago-dorville.tech </h3>
-
-</h4>
+<h3 align="left">Portfólio</h3>
+<h4>https://www.thiago-dorville.tech</h4>
 
 <div align="left">
   <a href="linkedin.com/in/thiago-dorville-a04404237">
