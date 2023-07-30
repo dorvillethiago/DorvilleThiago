@@ -1,5 +1,7 @@
 <h1 align="left">Opa 🖥️, você caiu no GitHub do Thiago</h1>
 
+<img alt="gif" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRicmaloy%2FRicmaloy&psig=AOvVaw1neZXduAs-HpsQzmpbFpEE&ust=1690780558614000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD5i9PWtYADFQAAAAAdAAAAABAE">
+
 <h4 align="left">A euforia de resolver problemas de código de forma brilhante e eficiente é inspiradora. Ser um desenvolvedor web significa transformar ideias em realidade e criar soluções inovadoras. Ver o trabalho executado sem problemas é simplesmente gratificante.
   
 <h3 align="left"> Portfólio: https://www.thiago-dorville.tech </h3>
