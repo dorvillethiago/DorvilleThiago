@@ -32,10 +32,8 @@
   <img align="center" alt="Thiago-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 </div>
   
-  <div align="center">
+  <div align="left">
   <a href="https://api.whatsapp.com/send?phone=5582996448092" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://linkedin.com/in/thiago-dorville-a04404237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/DorvilleThiago/DorvilleThiago/blob/output/github-contribution-grid-snake.svg)
     
   </div>
