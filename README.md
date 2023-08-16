@@ -5,8 +5,7 @@
 <h4 align="left">A euforia de resolver problemas de forma eficiente é inspiradora. Ser um desenvolvedor significa transformar ideias em realidade e criar soluções. Ver o seu trabalho impactando vidas é simplesmente gratificante.
   
 <h1 align="left">Portfólio</h1>
-<p>Aqui você encontra meus projetos pessoais hospedados de forma dinâmica na web.</p>
-<h4>https://www.thiago-dorville.tech</h4>
+<p>Aqui você encontra meus projetos pessoais hospedados de forma dinâmica na web.<br>https://www.thiago-dorville.tech</p>
 
 <div align="left">
   <a href="linkedin.com/in/thiago-dorville-a04404237">
