@@ -5,11 +5,14 @@
 <h4 align="left">A euforia de resolver problemas de código de forma brilhante e eficiente é inspiradora. Ser um desenvolvedor web significa transformar ideias em realidade e criar soluções inovadoras. Ver o trabalho executado sem problemas é simplesmente gratificante.
   
 <h1 align="left">Portfólio</h1>
+<p>Aqui você encontra meus projetos pessoais hospedados de forma dinâmica na web.</p>
 <h3>https://www.thiago-dorville.tech</h3>
 
 <div align="left">
   <a href="linkedin.com/in/thiago-dorville-a04404237">
 </div>
+<h1>Tecnologias</h1>
+<p>Aqui são as tecnologias com as quais já trabalhei e tenho experiência prática.</p>
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -41,6 +44,8 @@
   <img align="center" alt="Thiago-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
   <br>
+  <h1>Contatos</h1>
+  <p>Aqui você pode mandar um oi :)</p>
   <div align="left">
   <a href="https://api.whatsapp.com/send?phone=5582996448092" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://linkedin.com/in/thiago-dorville-a04404237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
