@@ -23,9 +23,11 @@
   </a>
 </p>
 
+---
+
 ## 📜 Portfólio
 
-<a href="https://www.thiago-dorville.tech">Clique aqui</a>
+<a href="https://www.thiago-dorville.tech"><h2>Clique aqui</h2></a>
 
 ### 📱 Minhas redes:
 
