@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,ps,git,neovim,bash,git,eclipse,linux,vite" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ps,neovim,bash,git,eclipse,linux,vite" />
   </a>
 </p>
 
