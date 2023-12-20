@@ -7,7 +7,7 @@
 - 🎓 Formando em **Sistemas de informação** pelo Centro Univesitário CESMAC.
 - 🏥 Estagiou como **Desenvolvedor** na Unimed.
 
-## 🚀 Minhas Skills
+## 🚀 Hard Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
