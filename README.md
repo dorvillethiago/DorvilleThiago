@@ -23,12 +23,6 @@
   </a>
 </p>
 
----
-
-## 📜 Portfólio
-
-<a href="https://www.thiago-dorville.tech">Clique aqui</a>
-
 ## 📱 Contato
 
 <div align="left">
