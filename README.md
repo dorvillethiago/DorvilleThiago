@@ -3,9 +3,8 @@
 ## 🖖 Olá, meu nome é <strong>Thiago Dorville!</strong>
 <h3>Sou desenvolvedor de software!</h3>
 
-- 💻 Trabalhando como **Desenvolvedor Full Stack** na Promáxima Gestão Empresarial.
+- 💻 Trabalhando atualmente como **Engenheiro de Software** na Vérttice Gerenciamento de Riscos.
 - 🎓 Formando em **Sistemas de informação** pelo Centro Univesitário CESMAC.
-- 🏥 Estagiou como **Desenvolvedor** na Unimed.
 
 ## 🚀 Hard Skills
 
