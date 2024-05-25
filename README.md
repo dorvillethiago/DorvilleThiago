@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+![image](https://github.com/dorvillethiago/DorvilleThiago/assets/103829961/ed74ffe4-41f5-4c25-8fc5-5b71a81b8477)<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 🖖 Olá, meu nome é <strong>Thiago Dorville!</strong>
 <h3>Sou desenvolvedor de software!</h3>
@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,sass,ts,docker,py,express,jest,flask,mysql,nextjs,nuxtjs,postgres,django,jquery,redux,vue,nodejs,php,wordpress,supabase" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,sass,ts,docker,py,express,jest,vitest,flask,mysql,nextjs,nuxtjs,postgres,django,jquery,redux,vue,nodejs,php,wordpress,supabase" />
   </a>
 </p>
 
