@@ -3,7 +3,7 @@
 ## 🖖 Olá, meu nome é <strong>Thiago Dorville!</strong>
 <h3>Sou desenvolvedor de software!</h3>
 
-- 💻 Trabalhando atualmente como **Engenheiro de Software** na Vérttice Gerenciamento de Riscos.
+- 💻 Trabalhando atualmente como **Engenheiro de Software** na Vérttice.
 - 🎓 Formando em **Sistemas de informação** pelo Centro Univesitário CESMAC.
 
 ## 🚀 Hard Skills
