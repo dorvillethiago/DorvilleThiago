@@ -1,4 +1,4 @@
-![image](https://github.com/dorvillethiago/DorvilleThiago/assets/103829961/ed74ffe4-41f5-4c25-8fc5-5b71a81b8477)<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 🖖 Olá, meu nome é <strong>Thiago Dorville!</strong>
 <h3>Sou desenvolvedor de software!</h3>
