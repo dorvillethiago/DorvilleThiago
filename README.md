@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 🖖 Olá, meu nome é <strong>Thiago Dorville!</strong>
-<h3>Sou desenvolvedor de software!</h3>
+## 🖖 Hi, i am <strong>Thiago Dorville!</strong>
+<h3>And i'm a software engineer!</h3>
 
-- 💻 Trabalhando atualmente como **Engenheiro de Software** na Vérttice.
-- 🎓 Formando em **Sistemas de informação** pelo Centro Univesitário CESMAC.
+- 💻 Currently working as **Software Engineer** at Vérttice.
+- 🎓 Persuing bachelor's in **Information Systems** on CESMAC University.
 
 ## 🚀 Hard Skills
 
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-## 🛠️ Ferramentas de desenvolvimento
+## 🛠️ Work Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-## 📱 Contato
+## 📱 Contact
 
 <div align="left">
     <a href="https://api.whatsapp.com/send?phone=5582996448092" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
