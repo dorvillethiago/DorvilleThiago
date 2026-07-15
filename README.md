@@ -3,7 +3,7 @@
 ## 🖖 Hi, i am <strong>Thiago Dorville!</strong>
 <h3>And i'm a software engineer!</h3>
 
-- 💻 Currently working as **Software Engineer** at Vérttice.
+- 💻 Currently working as **Software Engineer** at Gravta.
 - 🎓 Persuing bachelor's in **Information Systems** on CESMAC University.
 
 ## 🚀 Hard Skills
